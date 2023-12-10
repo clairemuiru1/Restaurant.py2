@@ -1,3 +1,5 @@
+from Customer import Base
+from Reviews import Base
 from Restaurant import Base
 from logging.config import fileConfig
 
